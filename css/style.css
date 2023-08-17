@@ -1,0 +1,35 @@
+html{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.menu{
+    background-color: rgb(0, 210, 210);
+    border: solid 7.5px greenyellow;
+    text-align: center;
+}
+
+.menu li{
+    display: inline-block;
+    border: solid 5px brown;
+    padding: 10px 20px;
+    margin-right: 1rem;
+    
+}
+
+.cuerpo{
+    background-color: #4985da;
+    padding: 3rem;
+    text-align: center;
+}
+
+hr{
+    width: 1000px;
+}
+
+.pie{
+    background-color: beige;
+    text-align: right;
+    padding: 3rem;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
