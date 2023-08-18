@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     }
 
     intervalId = setInterval(moveDown, 1000)
-  
+  //PARA COMMIT
     function moveDown(){
         undraw()
         currentPosition += width
